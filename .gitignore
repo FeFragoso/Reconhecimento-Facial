@@ -1,5 +1,1 @@
-.gitignore
-.idea
-Lib
-Scripts
-pyvenv.cfg
+python
